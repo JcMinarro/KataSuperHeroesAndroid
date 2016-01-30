@@ -14,6 +14,7 @@ This repository contains an Android application to show Super Heroes information
 
 ![ApplicationScreencast][applicationScreencast]
 
+
 This Application is based on two Activities:
 
 * ``MainActivity`` showing a list of super heroes with name, photo and a special badge if is part of the Avengers Team.
